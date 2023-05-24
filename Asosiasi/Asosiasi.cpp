@@ -59,7 +59,7 @@ void dokter::cetakPasien() {
 
 int main() {
 	dokter* varDokter1 = new dokter("dr.Budi");
-	dokter* varDokter2 = new dokter("dr.Tono");
+	dokter* varDokter2 = new dokter("dr.Tono"); 
 	pasien* varPasien1 = new pasien("Andi");
 	pasien* varPasien2 = new pasien("Lia");
 
