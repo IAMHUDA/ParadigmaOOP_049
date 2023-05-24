@@ -7,7 +7,7 @@ public:
 	string nama;
 
 	orang(string pNama) :
-		nama(pNama) {
+		nama(pNama) { 
 		cout << "Orang dibuat\n" << endl;
 	}
 	~orang() { 
